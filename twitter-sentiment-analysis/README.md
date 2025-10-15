@@ -24,7 +24,6 @@ Goal: Understand public opinion on AI tools — excitement vs. concern.
 
 ## 💻 Run the Notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Checkpromax/twitter-sentiment-analysis/blob/main/sentiment_analysis.ipynb)
-
 ---
 
 ## 🔍 Key Insight
@@ -48,3 +47,4 @@ Goal: Understand public opinion on AI tools — excitement vs. concern.
 **Author:** Vishwas 
 **Date:** October 2025  
 **License:** MIT
+
